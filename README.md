@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Anita Maria Ulfa, MPH  
 
-<!--
-**Anitamaria-porto/Anitamaria-porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master of Public Health** | Health Policy & Data Analytics  
+Class of 2024 | University of Sheffield  
 
-Here are some ideas to get you started:
+Currently exploring **data-driven approaches** to strengthen health systems and evaluate community health programs in Indonesia:  
+- 📊 Health data visualization (Python, R)  
+- 🧮 Quantitative and qualitative research  
+- 🩺 Focus on tuberculosis, preventive medicine, and community health  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**: R • Python • Stata • NVivo • Excel • Power BI  
+🔬 **Focus**: Health systems | Preventive medicine | Evidence-based policy  
+
+👇 Explore my work:  
+[github.com/Anitamaria-porto](https://github.com/Anitamaria-porto)  
+
+📍 Indonesia & United Kingdom | 📧 sakenrestuningtyas@gmail.com | [linkedin.com/in/anitamariaulfa](https://linkedin.com/in/anitamariaulfa)  
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anitamaria-porto&theme=synthwave)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitamaria-porto&theme=buefy&layout=compact&langs_count=10)
+  
+</div>
