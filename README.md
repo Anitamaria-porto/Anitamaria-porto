@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Anita Maria Ulfa, MPH  
 
-**Master of Public Health** | Health Policy & Data Analytics  
-Class of 2024 | University of Sheffield  
+**Public Health** | Health Policy & Data Analytics  
 
-Currently exploring **data-driven approaches** to strengthen health systems and evaluate community health programs in Indonesia:  
-- 📊 Health data visualization (Python, R)  
+
+I’m building a space here to share small public health data projects. Currently exploring **data-driven approaches** to help improve health systems and support the evaluation of community health programs:  
+- 📊 Health data visualisation 
 - 🧮 Quantitative and qualitative research  
-- 🩺 Focus on tuberculosis, preventive medicine, and community health  
+- 🩺 Focus on Epidemiology & Surveillance: TB, COVID-19, vaccination, NCDs
+- Health inequalities: socioeconomic or regional disparities
+- Program evaluation: outcomes of community health programs
+- Health system performance: hospital admission trends, service coverage
 
-🔧 **Tech Stack**: R • Python • Stata • NVivo • Excel • Power BI  
+  
+🔧 **Tech Stack**: R • Python • SQL • SPSS • Excel • Power BI  
 🔬 **Focus**: Health systems | Preventive medicine | Evidence-based policy  
 
 👇 Explore my work:  
